@@ -1,0 +1,32 @@
+{
+  "public": true,
+  "name": "mikado-express",
+  "description": "Web's smartest virtual DOM templating engine.",
+  "homepage": "https://github.com/nextapps-de/mikado/",
+  "author": "Thomas Wilkerling",
+  "copyright": "Nextapps GmbH",
+  "version": "0.0.0",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nextapps-de/mikado/issues",
+    "email": "info@nextapps.de"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextapps-de/mikado.git"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "mikado-compile": "^0.0.0"
+  },
+  "devDependencies": {}
+}
